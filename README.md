@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codingCoderIsCodingNow.
-- 👀 I’m interested in Coding and Money.
-- 🌱 I’m currently learning to code and to make money.
+- 👀 I’m interested in Coding.
+- 🌱 I’m currently learning to code.
 - 💞️ I’m looking to collaborate on this platform.
 - 📫 How to reach me ? I am from Mars and there's no access to reach me.
 
